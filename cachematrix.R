@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 ## This the code for the assignment
 ## The functies return a inverse matrix out of cache 
 
