@@ -1,5 +1,5 @@
-## This the code for the assignment
-## The functies return a inverse matrix out of cache 
+## This is the code for the assignment
+## The functies return a inverse matrix out of the cache data 
 
 
 ## This function adds the data into cache memory
